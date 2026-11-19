@@ -17,9 +17,9 @@ and I'm building hands-on projects in these areas.
 
 ## Skills
 
-**Languages:** Python, Java, SQL, Bash
-**Security & Networking:** Wireshark, tcpdump, RBAC, API authorization, input validation
-**Backend:** Spring Boot, REST APIs, MySQL, Redis, JUnit, Postman
+- **Languages:** Python, Java, SQL, Bash
+- **Security & Networking:** Wireshark, tcpdump, RBAC, API authorization, input validation
+- **Backend:** Spring Boot, REST APIs, MySQL, Redis, JUnit, Postman
 
 ## Currently learning
 
